@@ -16,4 +16,4 @@ Some decisions reflect the learning stage at the time they were made.
 ℹ️ Note
 Suggestions and improvements are welcome.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esteves240&show_icons=true&theme=dark)
