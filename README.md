@@ -1,16 +1,19 @@
-## Hi there 👋
+📌 About
+Repository used for study, practice, and continuous development.  
+The focus is on writing clear, functional, and maintainable code.
 
-<!--
-**Esteves240/Esteves240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Goal
+Apply learned concepts, strengthen fundamentals, and progressively improve solution quality.
 
-Here are some ideas to get you started:
+🛠️ Contents
+- Exercises and small projects  
+- Practical examples  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Status
+This repository is under active development.  
+Some decisions reflect the learning stage at the time they were made.
+
+ℹ️ Note
+Suggestions and improvements are welcome.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=dark)
