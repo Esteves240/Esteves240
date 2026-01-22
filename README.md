@@ -17,3 +17,5 @@ Some decisions reflect the learning stage at the time they were made.
 Suggestions and improvements are welcome.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esteves240&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Esteves240&layout=compact&theme=dark)
